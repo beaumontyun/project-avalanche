@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="./assets/ProjectAvalanche.a5f522e2.svg">
+  <HelloWorld msg="Welcome to Project Avalanche"/>
 </template>
 
 <script>
@@ -15,6 +15,19 @@ export default {
 </script>
 
 <style>
+img {
+  width: 25%;
+}
+@media screen and (max-width: 1064px) {
+	img {
+		width: 35%;
+	}
+}
+@media screen and (max-width: 768px) {
+	img {
+		width: 70%;
+	}
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
