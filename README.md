@@ -1,4 +1,5 @@
-# avalanche
+# Project Avalanche
+This is a landing page for Project Avalanche. Project Avalanche is a side project of mine where I research and study everyday backpacks in order to develop and design the next generation backpack that combines functionality and aesthetics.
 
 ## Project setup
 ```
