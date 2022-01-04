@@ -4,7 +4,7 @@
     <h4>Thank you for your interest in our project.</h4>
     <h4>We are designing the next generation backpack for every day carry.</h4>
     <h4>
-      Our website is currently under construction, but we will be back as soon as possible.
+      Our website is currently under construction, we will be back soon.
     </h4>
     <div class="push"></div>
   </div>
